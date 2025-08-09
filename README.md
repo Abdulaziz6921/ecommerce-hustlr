@@ -8,7 +8,7 @@ It adapts to various screen sizes using responsive units and media queries, stac
 Clone the project
 
 ```bash
-  git clone https://dredsoftlabs-admin@bitbucket.org/dredsoftlabs/ecommerce.git
+  git clone https://github.com/Abdulaziz6921/ecommerce-hustlr.git
 ```
 
 Go to the project directory
